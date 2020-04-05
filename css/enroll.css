@@ -1,0 +1,62 @@
+.enroll{
+    background: var(--black);
+    width: 100%;
+    padding: 1.5em 0.8em;
+}
+.enroll__block{
+    margin-bottom: 1.5em;
+    font-family: var(--txt-nano-ff);
+}
+.enroll__block-suptitle{
+    color: var(--red);
+    font-size: 0.8em;
+    margin-bottom: 0.5em;
+}
+.enroll__block-title{
+    font-size: 1em;
+}
+.enroll__block-description{
+    margin-bottom: 1.5em;
+}
+.red-txt{
+    color: var(--red);
+}
+.enroll__block-btn{
+    font-size: 0.8em;
+    color: var(--white);
+    background: var(--red);
+    border: 1px solid transparent;
+    padding: 0.4em 0.8em;
+    margin-top: 0.5em;
+    cursor: pointer;
+    transition: ease-in 1s;
+}
+.enroll__block-btn:hover{
+    color: var(--red);
+    background: var(--white);
+    border: 1px solid var(--red);
+}
+.enroll__block-btn2{
+    font-size: 0.8em;
+    color: var(--red);
+    background: transparent;
+    border: 1px solid var(--red);
+    padding: 0.4em 0.8em;
+    margin-top: 0.5em;
+    cursor: pointer;
+    transition: ease-in 1s;
+}
+.enroll__block-btn2:hover{
+    color: var(--white);
+    background: var(--red);
+    border: 1px solid transparent;
+}
+.section__comment2{
+    color: var(--txt-color);
+    font-size: 0.8em;
+}
+.section__comment{
+    color: var(--txt-color);
+    font-size: 0.8em;
+    margin-bottom: 1em;
+}

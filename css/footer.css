@@ -1,0 +1,29 @@
+.footer{
+    background: var(--red);
+    height: auto;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+.footer-row{
+    align-items: center;
+    text-align: center;
+}
+.footer__logo{
+    width: 10em;
+}
+.footer__txt{
+    color: var(--white);
+    font-family: var(--txt-nano-ff);
+    font-size: 1em;
+    margin-top: 0.9em;
+}
+.footer__social-block{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+    margin: auto;
+}
+.footer-fa{
+    color: var(--white);
+    font-size: 1em;
+}

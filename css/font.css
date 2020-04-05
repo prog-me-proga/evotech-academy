@@ -1,0 +1,36 @@
+@font-face{
+    src: url(../fonts/giveny/Giveny.ttf);
+    font-family: 'givenchy';
+}
+@font-face{
+    src: url(../fonts/nano/NanoTechRegular.otf);
+    font-family: 'nanotech';
+}
+@font-face{
+    src: url(../fonts/half/Halfomania-Regular.ttf);
+    font-family: 'half';
+}
+@font-face{
+    src: url(../fonts/quantum/Quantum.otf);
+    font-family: 'quantum';
+}
+@font-face{
+    src: url(../fonts/quick/Quick.otf);
+    font-family: 'quick';
+}
+@font-face{
+    src: url(../fonts/potra/Potra.ttf);
+    font-family: 'potra';
+}
+@font-face{
+    src: url(../fonts/vova/Vovchik-PersonalUse.ttf);
+    font-family: 'vova';
+}
+@font-face{
+    src: url(../fonts/brbalo/BoteraFont/Botera-Regular.otf);
+    font-family: 'botir';
+}
+@font-face{
+    src: url(../fonts/rebec/Rebel-PersonalUse.ttf);
+    font-family: 'rebeca';
+}

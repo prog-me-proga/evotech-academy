@@ -1,0 +1,36 @@
+@import 'font.css';
+@import 'header.css';
+@import 'footer.css';
+@import 'enroll.css';
+@import 'apply.css';
+@import 'about.css';
+
+*{margin: 0; padding: 0; list-style: none; text-decoration: none;}
+
+:root{
+    --txt-color: #4d4d4d;
+    --txt-nano-ff:'nanotech';
+    --title-quan-ff:'quantum';
+    --title-half-ff:'half';
+    --txt-thin-ff:'quick';
+    --title-potra-ff:'potra';
+    --title-vova-ff:'vova';
+    --bg-color: #292826;
+    --yellow:#f9d342;
+    --white: #ffff;
+    --red:#d13830;
+    --black: #1d1b1b;
+}
+body {
+    background: var(--txt-color);
+    color: #ffff;
+    
+}
+.container-fluid{
+    padding-right: 0;
+    padding-left: 0;
+}
+.row{
+    margin-right: 0;
+    margin-left: 0;
+}

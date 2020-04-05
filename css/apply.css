@@ -1,0 +1,51 @@
+.apply{
+   background: var(--white);
+   padding: 1em 0em; 
+   position: relative;
+   height: auto;
+}
+.apply__bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    left: 0;
+}
+.apply__block{
+    text-align: center;
+    margin-bottom: 1em;
+}
+.apply__gif{
+    width: 6em;
+}
+.apply__title{
+    color: var(--black);
+    font-size: 2em;
+    font-family: var(--title-potra-ff);
+    margin-bottom: 0.8em;
+}
+.apply__cross{
+    color: var(--red);
+    font-family: var(--txt-nano-ff);
+    font-size: 1em;
+    text-decoration: line-through;
+    text-decoration-color: var(--black);
+}
+.apply__txt{
+    color: var(--black);
+    font-family: var(--txt-nano-ff);
+    margin-bottom: 1.8em;
+    font-size: 1em;
+}
+.apply__btn{
+    color: var(--white);
+    font-size: 1em;
+    font-family: var(--txt-nano-ff);
+    background: var(--red);
+    padding: 0.8em 1em;
+    border: 1px solid transparent;
+    box-shadow: 0 0 7px #908888;
+    
+    
+}
